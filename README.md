@@ -1,4 +1,4 @@
-# README for Cooperative Game Inspired by Fireboy and Watergirl (Java)
+# Cooperative Game Inspired by Fireboy and Watergirl (Java)
 
 ---
 
