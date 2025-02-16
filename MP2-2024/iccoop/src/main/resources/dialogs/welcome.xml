@@ -1,0 +1,8 @@
+<strings id="welcome">
+    <string name="game_name">Bienvenue dans la province de ICoop! → Espace pour continuer</string>
+    <string name="game_name">Le joueur rouge contrôle son personnage avec les touches W,A,S et D.</string>
+    <string name="game_name">Attaque avec la touche E, et change d'arme avec la touche Q.</string>
+    <string name="game_name">Le joueur bleu contrôle son personnage avec les touches I,J,K et L.</string>
+    <string name="game_name">Attaque avec la touche O, et change d'arme avec la touche U.</string>
+    <string name="game_name">Bonne aventure !</string>
+</strings>
